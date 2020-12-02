@@ -1,2 +1,2 @@
-# Actor-Critic-TF
-Implementing the Actor Critic algorithm using tensorflow. 
+# Actor-Critic-Cartpole
+Implementing the Actor Critic Reinforcement learning algorithm using tensorflow to play cartpole 
