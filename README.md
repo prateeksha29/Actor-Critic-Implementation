@@ -1,2 +1,2 @@
-# Actor-Critic-Implementation
-Implemenation of Actor Critic Reinforcement Learning using Tensorflow
+# Actor-Critic-TF
+Implementing the Actor Critic algorithm using tensorflow. 
